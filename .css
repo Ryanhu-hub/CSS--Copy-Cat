@@ -35,6 +35,12 @@ img {
     background-color: black;
 }
 
+.wallpaper {
+    position: relative;
+    z-index: 1;
+
+}
+
 #footer {
     background-color: navy;
 }
