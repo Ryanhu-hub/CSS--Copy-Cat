@@ -1,0 +1,40 @@
+* {
+    text-align: left;
+}
+
+body {
+    background-color: teal;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    margin: auto;
+}
+
+img {
+    background-image: url(wp1955847-xenoblade-chronicles-wallpapers.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.card col {
+    text-align: right;
+    margin-right: auto;
+}
+
+.w3-container {
+    background-color: black;
+}
+
+#footer {
+    background-color: navy;
+}
